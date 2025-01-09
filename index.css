@@ -31,6 +31,10 @@ body{
     /* border: 1px solid rebeccapurple; */
 }
 
+.icon-cover{
+    display: none;
+}
+
 .nav-bar{
     width: 90%;
     height: 4rem;
